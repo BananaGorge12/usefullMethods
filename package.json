@@ -1,0 +1,12 @@
+{
+  "name": "testing-area",
+  "version": "1.0.0",
+  "description": "A place to test ideas and create cool functions",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "author": "Ilay Bokobza",
+  "license": "ISC",
+  "devDependencies": {}
+}
